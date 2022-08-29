@@ -6,6 +6,8 @@
 
 ## Enunciado:
 
+-Antes de comenzar, instalá NPM (npm i)
+
 -En src/app.js encontraran el componente padre (app) y tres hijos ("Contador", "GastoMes", "AgregarGasto") en uno de ellos encontraran un estado
      
 ```
