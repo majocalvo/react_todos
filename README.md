@@ -17,3 +17,4 @@ const [gastos, setGastos] = useState([1500, 300, 450])
 -A su vez, en el "contador" deberan hacer una sumatoria para que de como resultado el gasto total.
 
 -El que quiera avanzar y agregar otros estados, puede hacerlo.
+# react_hooks
